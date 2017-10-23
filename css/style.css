@@ -45,6 +45,7 @@ body{
 
 .about{
   text-align: center;
+  margin-top: 20px;
 }
 
 .announcement{
@@ -73,6 +74,7 @@ body{
   text-align: center;
   font-size: 30px;
   margin-bottom: 30px;
+  font-family: 'Lato', sans-serif;
 }
 
 .menu-item{
